@@ -1,0 +1,5 @@
+AgendaSql.class
+DAO\Conexion.class
+test\TestAgenda.class
+DAO\AgendaDAO.class
+domain\Contacto.class
